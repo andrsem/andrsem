@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Andrii
 - 👀 I’m interested in multiplatform app development with SwiftUI
-- 🌱 I’m currently learning SwiftUI framework
+- 🌱 I’m currently mastering SwiftUI framework
